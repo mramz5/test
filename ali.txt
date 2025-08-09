@@ -5,9 +5,11 @@ AHMAD
 SIGNA
 gsjdfa;sfsdfd
     public static void main(Ahmad[] args){}
-AA
-ghjhjhjjj
+DDD
 867867
 789
 78
 98
+
+
+%%
